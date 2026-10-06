@@ -8,6 +8,8 @@
 .p-twilight{--ink:#1c1233;--ink-2:#2a1d4a;--accent:#6a45f5;--accent-strong:#5432db;--on-accent:#fff;--pop:#c7b6ff;--soft:#efe9ff;--surface:#fbf9ff;--card:#fff;--line:#e1d8fa;--muted:#5d5574;--on-dark:#f5f1ff;--on-dark-muted:#bdb3d9;--eyebrow:#5432db;--wm2:#6a45f5;
   --f-display:'Fraunces',Georgia,serif;--f-body:'Plus Jakarta Sans',system-ui,sans-serif;--h-weight:600;--h-track:-.025em;
   --l-ink:#1c1233;--l-main:#6a45f5;--l-hi:#c7b6ff;--l-soft:#e6ddff;--l-spark:#fff}
+.p-evergreen .mark-monogram{--l-main:#1f9d5c;--l-hi:#2fbf71}
+.p-evergreen .on-dark .mark-monogram{--l-main:#2fbf71;--l-hi:#b8f15a}
 .on-dark{--l-ink:var(--on-dark);--l-soft:rgba(255,255,255,.14);--wm2:var(--pop)}
 .p-evergreen .on-dark .mark-swipe rect:first-child,.p-sunline .on-dark .mark-swipe rect:first-child,.p-twilight .on-dark .mark-swipe rect:first-child{fill:rgba(255,255,255,.1)}
 
